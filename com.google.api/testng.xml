@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suit for different program" verbose="1" >
+  <test name="Elements of Selenium" >
+    <classes>
+      <class name="com.naukri.executionEngine.Actions_class"/>
+      <class name="com.naukri.executionEngine.Dynamic_Webtable"/>
+      <class name="com.naukri.executionEngine.Logo_google"/>
+    </classes>
+ </test>
+</suite>
